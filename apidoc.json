@@ -1,0 +1,8 @@
+{
+  "name": "trade server",
+  "version": "1.0.0",
+  "description": "trade server api",
+  "title": "trade server api",
+  "url": "/api/v1",
+  "sampleUrl":"http://127.0.0.1:7082/api/v1"
+}
