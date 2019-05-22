@@ -1,4 +1,4 @@
-1. Open the code file
+1. Open the code file (config/development.js)
 Change the db username/password
 
 2. Install mysqld
@@ -8,7 +8,7 @@ Create database trade;
 $ npm install
 
 4. Install apidoc
-npm install apidoc -g
+$ npm install apidoc -g
 
 5. Generate api doc
 $ npm run apidoc
