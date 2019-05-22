@@ -3,6 +3,7 @@ Change the db username/password
 
 2. Install mysqld
 Create database trade;
+Execute the SQL schema file at sql/init.sql
 
 3. Install node module
 $ npm install
